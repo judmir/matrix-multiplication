@@ -357,6 +357,7 @@
     </style>
 </head>
 <body class="antialiased">
+<!-- Design idea from http://matrixmultiplication.xyz/ -->
 <div id="main-container">
     <div class="app" id ="app">
         <h1 class="title fq5xi0j">Matrix Multiplication</h1>
@@ -379,8 +380,6 @@
                 </div>
             </div>
         </div>
-        <h2 class="footnote flg8p5s"><a href="https://github.com/staltz/matrixmultiplication.xyz">Built by @andrestaltz
-                with Cycle.js</a></h2></div>
 </div>
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"

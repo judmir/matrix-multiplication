@@ -69,7 +69,7 @@ curl --location --request POST 'http://127.0.0.1:8000/api/matrix-multiplication'
        [1,2,3],
        [1,2,3]
    ]
-}
+}'
 ```
 > #### TODO!
 >
